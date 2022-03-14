@@ -1,0 +1,32 @@
+* {
+	font-family: TimesNewRoman, Verdana, sans-serif;
+	color: #313638;
+	text-align: ;
+	}
+body {
+	background-color: #E0DFD5;
+	}
+#content {
+	overflow: auto;
+	height: 100%;}
+
+header {
+	text-align: center;
+	color: red;
+}
+
+nav{
+	line-height: 175%;
+	float: left;
+}
+
+main{
+	float: right;
+	padding-right: 200px;
+}
+
+dd {
+	font-weight: bold;
+	font-size: 14px;
+	font-family: Georgia, serif;
+}
